@@ -20,4 +20,4 @@ additional_files:
   - name: settings.gradle
 mode: Study
 feedback_link: https://plugins.jetbrains.com/plugin/16628-kotlin-koans/reviews
-yaml_version: 2
+yaml_version: 3
